@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ASUS
+Build-Jdk: 11.0.8
+Class-Path: lib/logback-classic-1.1.2.jar lib/logback-core-1.1.2.jar lib
+ /jul-to-slf4j-1.7.10.jar lib/jcl-over-slf4j-1.7.10.jar lib/slf4j-api-1.
+ 7.10.jar lib/log4j-over-slf4j-1.7.10.jar
+Main-Class: com.ebay.jetstream.application.JetstreamApplication
+Created-By: Maven Integration for Eclipse
+
